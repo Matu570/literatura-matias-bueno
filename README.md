@@ -1,10 +1,5 @@
 # Proyecto Literatura - literAlura
 
-![Captura de pantalla 2024-06-07 191102](https://github.com/albelizGH/literalura/assets/129092769/0b3f3a6a-ac9a-4611-abc9-07cf32917553)
-
-
-Bienvenido al proyecto literAlura, una aplicación Java basada en Spring Boot que te permite gestionar libros y autores de manera eficiente y fácil. 🎉
-
 ## Descripción del Proyecto 📚
 
 El proyecto literAlura está diseñado para ayudar a los amantes de la literatura a buscar, registrar y listar libros y autores. También ofrece funcionalidades avanzadas como listar autores vivos en un determinado año y listar libros por idioma.
@@ -77,7 +72,6 @@ Elija una opción:
 ```
 Selecciona la opción deseada ingresando el número correspondiente y sigue las instrucciones en pantalla.
 
-Hecho con ❤️ por Alejo
 
 
 
